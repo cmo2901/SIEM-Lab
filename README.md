@@ -6,3 +6,7 @@ In this project, I deployed a virtual machine with weak credentials and port 338
 ### Tools Used
 <p> Microsoft Azure <br>
 Microsoft Sentinel </p>
+
+### Skills Learned
+<p> Log Analysis <br>
+Threat Detection </p>
