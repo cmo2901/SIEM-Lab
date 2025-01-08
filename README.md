@@ -10,3 +10,6 @@ Microsoft Sentinel </p>
 ### Skills Learned
 <p> Log Analysis <br>
 Threat Detection </p>
+
+
+#### Configuration of Workspace & Virtual Machine
