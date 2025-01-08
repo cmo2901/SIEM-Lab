@@ -13,3 +13,8 @@ Threat Detection </p>
 
 
 #### Configuration of Workspace & Virtual Machine
+<p> Virtual Machine with port 3389 open and weak credentials:</p>
+
+![SIEM Step 2](https://github.com/user-attachments/assets/a8beaadb-0fb4-4086-a372-81fc2b702056)
+
+
